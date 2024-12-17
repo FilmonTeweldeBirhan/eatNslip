@@ -12,4 +12,4 @@ This app helps user to do a bill split.
 2. Install dependencies by running `npm install`.
 3. Start the application using `npm start`.
 
-Enjoy your meal!
+Enjoy your meal!.
